@@ -1,4 +1,4 @@
 minorproject
 ============
 
-third year  minor project on distributed processing using hadoop framework part2
+master branch third year  minor project on distributed processing using hadoop framework part2
