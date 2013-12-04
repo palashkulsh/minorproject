@@ -1,2 +1,2 @@
-hello this is my first commit and its changed
+from master hello this is my first commit and its changed
 
